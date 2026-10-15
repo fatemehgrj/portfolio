@@ -15,11 +15,15 @@ with col2:
     #بعدش به انگلیسی تبدیلش میکنی واینجا پیست میکنی
 
     content="""
-    Hi I am Fatemeh! I am Python programme and student.
+    Hello, I'm Fatemeh Gorji!
+    I'm a Python Developer and a Master's student in Private Law.
+    I'm passionate about programming and web development, and I enjoy turning ideas into functional applications through code.
+    I'm always eager to learn new technologies, improve my skills, and explore creative ways to solve problems.
+    My goal is to develop useful, user-friendly applications that meet people's needs while continuously growing as a programmer.
     """
     st.write(content)
 content2 = """
-Below you can find some of the apps I have built in Python. feel free to contact me!
+Below you can find some of the apps I have built in Python. feel free to Contact.py me!
 """
 st.write(content2)
 
