@@ -199,7 +199,7 @@ elif page == "Contact Us":
         submitted = st.form_submit_button("Submit")
 
         if submitted:
-            if name and email and message:
+            if email and message:
                 st.success("Your message has been submitted!")
             else:
                 st.error("Please fill in all fields.")
